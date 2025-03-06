@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\abstracts2\\bmw2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\abstracts2\\bmw2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\abstracts\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\abstracts\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\abstracts\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\abstracts\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\abstracts2\\araba2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\abstracts2\\araba2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\abstracts2\\porsche2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\abstracts2\\porsche2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\abstracts2\\mercedes2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\abstracts2\\mercedes2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\abstracts\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\abstracts\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\interfaces\\idenizdeyuz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\interfaces\\idenizdeyuz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\interfaces\\ih\u0131zl\u0131git.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\interfaces\\ih\u0131zl\u0131git.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\interfaces\\ihavadauc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\interfaces\\ihavadauc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\abstracts\\mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\abstracts\\mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\abstracts\\programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\abstracts\\programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\odev2\\odev2\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93751A7D-DB0E-47BD-B633-5BAFF89DC11E}|odev2\\odev2.csproj|solutionrelative:odev2\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Program.cs",
+              "RelativeDocumentMoniker": "odev2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Program.cs",
+              "RelativeToolTip": "odev2\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:57:51.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDenizdeYuz.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Interfaces\\IDenizdeYuz.cs",
+              "RelativeDocumentMoniker": "odev2\\Interfaces\\IDenizdeYuz.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Interfaces\\IDenizdeYuz.cs",
+              "RelativeToolTip": "odev2\\Interfaces\\IDenizdeYuz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:16:02.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IH\u0131zl\u0131Git.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Interfaces\\IH\u0131zl\u0131Git.cs",
+              "RelativeDocumentMoniker": "odev2\\Interfaces\\IH\u0131zl\u0131Git.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Interfaces\\IH\u0131zl\u0131Git.cs",
+              "RelativeToolTip": "odev2\\Interfaces\\IH\u0131zl\u0131Git.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:15:16.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BMW.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Classes\\BMW.cs",
+              "RelativeDocumentMoniker": "odev2\\Classes\\BMW.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Classes\\BMW.cs",
+              "RelativeToolTip": "odev2\\Classes\\BMW.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:59:10.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Classes\\Mercedes.cs",
+              "RelativeDocumentMoniker": "odev2\\Classes\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Classes\\Mercedes.cs",
+              "RelativeToolTip": "odev2\\Classes\\Mercedes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:01:39.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts\\Calisan.cs",
+              "RelativeDocumentMoniker": "odev2\\Abstracts\\Calisan.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts\\Calisan.cs",
+              "RelativeToolTip": "odev2\\Abstracts\\Calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:07:23.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Stajyer.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts\\Stajyer.cs",
+              "RelativeDocumentMoniker": "odev2\\Abstracts\\Stajyer.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts\\Stajyer.cs",
+              "RelativeToolTip": "odev2\\Abstracts\\Stajyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:33:56.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mercedes2.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts2\\Mercedes2.cs",
+              "RelativeDocumentMoniker": "odev2\\Abstracts2\\Mercedes2.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts2\\Mercedes2.cs",
+              "RelativeToolTip": "odev2\\Abstracts2\\Mercedes2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:37:24.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Porsche2.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts2\\Porsche2.cs",
+              "RelativeDocumentMoniker": "odev2\\Abstracts2\\Porsche2.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts2\\Porsche2.cs",
+              "RelativeToolTip": "odev2\\Abstracts2\\Porsche2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:39:28.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenelMudur.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts\\GenelMudur.cs",
+              "RelativeDocumentMoniker": "odev2\\Abstracts\\GenelMudur.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts\\GenelMudur.cs",
+              "RelativeToolTip": "odev2\\Abstracts\\GenelMudur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:22:23.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Araba2.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts2\\Araba2.cs",
+              "RelativeDocumentMoniker": "odev2\\Abstracts2\\Araba2.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts2\\Araba2.cs",
+              "RelativeToolTip": "odev2\\Abstracts2\\Araba2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:33:49.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BMW2.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts2\\BMW2.cs",
+              "RelativeDocumentMoniker": "odev2\\Abstracts2\\BMW2.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts2\\BMW2.cs",
+              "RelativeToolTip": "odev2\\Abstracts2\\BMW2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:32:41.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Classes\\Araba.cs",
+              "RelativeDocumentMoniker": "odev2\\Classes\\Araba.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Classes\\Araba.cs",
+              "RelativeToolTip": "odev2\\Classes\\Araba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:19:53.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IHavadaUc.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Interfaces\\IHavadaUc.cs",
+              "RelativeDocumentMoniker": "odev2\\Interfaces\\IHavadaUc.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Interfaces\\IHavadaUc.cs",
+              "RelativeToolTip": "odev2\\Interfaces\\IHavadaUc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:16:51.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mudur.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts\\Mudur.cs",
+              "RelativeDocumentMoniker": "odev2\\Abstracts\\Mudur.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts\\Mudur.cs",
+              "RelativeToolTip": "odev2\\Abstracts\\Mudur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:27:50.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Programci.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts\\Programci.cs",
+              "RelativeDocumentMoniker": "odev2\\Abstracts\\Programci.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Abstracts\\Programci.cs",
+              "RelativeToolTip": "odev2\\Abstracts\\Programci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:32:43.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Porsche.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Classes\\Porsche.cs",
+              "RelativeDocumentMoniker": "odev2\\Classes\\Porsche.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\odev2\\odev2\\Classes\\Porsche.cs",
+              "RelativeToolTip": "odev2\\Classes\\Porsche.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:01:58.309Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

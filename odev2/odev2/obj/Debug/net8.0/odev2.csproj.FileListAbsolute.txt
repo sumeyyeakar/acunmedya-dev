@@ -1,0 +1,14 @@
+C:\Users\Ömer\Desktop\acunmedya\odev2\odev2\bin\Debug\net8.0\odev2.exe
+C:\Users\Ömer\Desktop\acunmedya\odev2\odev2\bin\Debug\net8.0\odev2.deps.json
+C:\Users\Ömer\Desktop\acunmedya\odev2\odev2\bin\Debug\net8.0\odev2.runtimeconfig.json
+C:\Users\Ömer\Desktop\acunmedya\odev2\odev2\bin\Debug\net8.0\odev2.dll
+C:\Users\Ömer\Desktop\acunmedya\odev2\odev2\bin\Debug\net8.0\odev2.pdb
+C:\Users\Ömer\Desktop\acunmedya\odev2\odev2\obj\Debug\net8.0\odev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer\Desktop\acunmedya\odev2\odev2\obj\Debug\net8.0\odev2.AssemblyInfoInputs.cache
+C:\Users\Ömer\Desktop\acunmedya\odev2\odev2\obj\Debug\net8.0\odev2.AssemblyInfo.cs
+C:\Users\Ömer\Desktop\acunmedya\odev2\odev2\obj\Debug\net8.0\odev2.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\acunmedya\odev2\odev2\obj\Debug\net8.0\odev2.dll
+C:\Users\Ömer\Desktop\acunmedya\odev2\odev2\obj\Debug\net8.0\refint\odev2.dll
+C:\Users\Ömer\Desktop\acunmedya\odev2\odev2\obj\Debug\net8.0\odev2.pdb
+C:\Users\Ömer\Desktop\acunmedya\odev2\odev2\obj\Debug\net8.0\odev2.genruntimeconfig.cache
+C:\Users\Ömer\Desktop\acunmedya\odev2\odev2\obj\Debug\net8.0\ref\odev2.dll
