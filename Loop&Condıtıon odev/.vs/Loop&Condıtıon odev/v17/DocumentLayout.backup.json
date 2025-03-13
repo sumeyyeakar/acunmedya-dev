@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\loop\u0026cond\u0131t\u0131on odev\\loop\u0026cond\u0131t\u0131on odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|solutionrelative:loop\u0026cond\u0131t\u0131on odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\loop\u0026cond\u0131t\u0131on odev\\loop\u0026cond\u0131t\u0131on odev\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|solutionrelative:loop\u0026cond\u0131t\u0131on odev\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\loop\u0026cond\u0131t\u0131on odev\\loop\u0026cond\u0131t\u0131on odev\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|solutionrelative:loop\u0026cond\u0131t\u0131on odev\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\loop\u0026cond\u0131t\u0131on odev\\loop\u0026cond\u0131t\u0131on odev\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|solutionrelative:loop\u0026cond\u0131t\u0131on odev\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\loop\u0026cond\u0131t\u0131on odev\\loop\u0026cond\u0131t\u0131on odev\\classes\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|solutionrelative:loop\u0026cond\u0131t\u0131on odev\\classes\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\loop\u0026cond\u0131t\u0131on odev\\loop\u0026cond\u0131t\u0131on odev\\classes\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|solutionrelative:loop\u0026cond\u0131t\u0131on odev\\classes\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\loop\u0026cond\u0131t\u0131on odev\\loop\u0026cond\u0131t\u0131on odev\\classes\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|solutionrelative:loop\u0026cond\u0131t\u0131on odev\\classes\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\loop\u0026cond\u0131t\u0131on odev\\loop\u0026cond\u0131t\u0131on odev\\classes\\programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|solutionrelative:loop\u0026cond\u0131t\u0131on odev\\classes\\programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\loop\u0026cond\u0131t\u0131on odev\\loop\u0026cond\u0131t\u0131on odev\\classes\\mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|solutionrelative:loop\u0026cond\u0131t\u0131on odev\\classes\\mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\loop\u0026cond\u0131t\u0131on odev\\loop\u0026cond\u0131t\u0131on odev\\classes\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A5DFC4-F314-4550-B622-88E6647B72EA}|Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev.csproj|solutionrelative:loop\u0026cond\u0131t\u0131on odev\\classes\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Toyota.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Toyota.cs",
+              "RelativeDocumentMoniker": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Toyota.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Toyota.cs",
+              "RelativeToolTip": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Toyota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:30:28.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Mercedes.cs",
+              "RelativeDocumentMoniker": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Mercedes.cs",
+              "RelativeToolTip": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Mercedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:30:14.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BMW.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\BMW.cs",
+              "RelativeDocumentMoniker": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\BMW.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\BMW.cs",
+              "RelativeToolTip": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\BMW.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:29:37.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Araba.cs",
+              "RelativeDocumentMoniker": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Araba.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Araba.cs",
+              "RelativeToolTip": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Araba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:24:33.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stajyer.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Stajyer.cs",
+              "RelativeDocumentMoniker": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Stajyer.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Stajyer.cs",
+              "RelativeToolTip": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Stajyer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:45:26.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Programci.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Programci.cs",
+              "RelativeDocumentMoniker": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Programci.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Programci.cs",
+              "RelativeToolTip": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Programci.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:44:57.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mudur.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Mudur.cs",
+              "RelativeDocumentMoniker": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Mudur.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Mudur.cs",
+              "RelativeToolTip": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Mudur.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:43:54.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenelMudur.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\GenelMudur.cs",
+              "RelativeDocumentMoniker": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\GenelMudur.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\GenelMudur.cs",
+              "RelativeToolTip": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\GenelMudur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:43:22.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Calisan.cs",
+              "RelativeDocumentMoniker": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Calisan.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Calisan.cs",
+              "RelativeToolTip": "Loop\u0026Cond\u0131t\u0131on odev\\Classes\\Calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:34:41.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Program.cs",
+              "RelativeDocumentMoniker": "Loop\u0026Cond\u0131t\u0131on odev\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Loop\u0026Cond\u0131t\u0131on odev\\Loop\u0026Cond\u0131t\u0131on odev\\Program.cs",
+              "RelativeToolTip": "Loop\u0026Cond\u0131t\u0131on odev\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:55:31.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
