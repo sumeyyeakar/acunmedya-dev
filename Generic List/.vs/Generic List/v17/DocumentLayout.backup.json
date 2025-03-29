@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Generic List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9E98BC-4D56-4ED1-9268-46EB70A6E132}|Generic List\\Generic List.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\generic list\\generic list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9E98BC-4D56-4ED1-9268-46EB70A6E132}|Generic List\\Generic List.csproj|solutionrelative:generic list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9E98BC-4D56-4ED1-9268-46EB70A6E132}|Generic List\\Generic List.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\generic list\\generic list\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9E98BC-4D56-4ED1-9268-46EB70A6E132}|Generic List\\Generic List.csproj|solutionrelative:generic list\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Generic List\\Generic List\\Araba.cs",
+              "RelativeDocumentMoniker": "Generic List\\Araba.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Generic List\\Generic List\\Araba.cs",
+              "RelativeToolTip": "Generic List\\Araba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:47:06.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Generic List\\Generic List\\Program.cs",
+              "RelativeDocumentMoniker": "Generic List\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\Generic List\\Generic List\\Program.cs",
+              "RelativeToolTip": "Generic List\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:42:57.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
