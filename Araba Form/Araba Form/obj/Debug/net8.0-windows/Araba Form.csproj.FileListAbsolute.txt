@@ -1,0 +1,16 @@
+C:\Users\Ömer\Desktop\acunmedya\Araba Form\Araba Form\bin\Debug\net8.0-windows\Araba Form.exe
+C:\Users\Ömer\Desktop\acunmedya\Araba Form\Araba Form\bin\Debug\net8.0-windows\Araba Form.deps.json
+C:\Users\Ömer\Desktop\acunmedya\Araba Form\Araba Form\bin\Debug\net8.0-windows\Araba Form.runtimeconfig.json
+C:\Users\Ömer\Desktop\acunmedya\Araba Form\Araba Form\bin\Debug\net8.0-windows\Araba Form.dll
+C:\Users\Ömer\Desktop\acunmedya\Araba Form\Araba Form\bin\Debug\net8.0-windows\Araba Form.pdb
+C:\Users\Ömer\Desktop\acunmedya\Araba Form\Araba Form\obj\Debug\net8.0-windows\Araba_Form.Form1.resources
+C:\Users\Ömer\Desktop\acunmedya\Araba Form\Araba Form\obj\Debug\net8.0-windows\Araba Form.csproj.GenerateResource.cache
+C:\Users\Ömer\Desktop\acunmedya\Araba Form\Araba Form\obj\Debug\net8.0-windows\Araba Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer\Desktop\acunmedya\Araba Form\Araba Form\obj\Debug\net8.0-windows\Araba Form.AssemblyInfoInputs.cache
+C:\Users\Ömer\Desktop\acunmedya\Araba Form\Araba Form\obj\Debug\net8.0-windows\Araba Form.AssemblyInfo.cs
+C:\Users\Ömer\Desktop\acunmedya\Araba Form\Araba Form\obj\Debug\net8.0-windows\Araba Form.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\acunmedya\Araba Form\Araba Form\obj\Debug\net8.0-windows\Araba Form.dll
+C:\Users\Ömer\Desktop\acunmedya\Araba Form\Araba Form\obj\Debug\net8.0-windows\refint\Araba Form.dll
+C:\Users\Ömer\Desktop\acunmedya\Araba Form\Araba Form\obj\Debug\net8.0-windows\Araba Form.pdb
+C:\Users\Ömer\Desktop\acunmedya\Araba Form\Araba Form\obj\Debug\net8.0-windows\Araba Form.genruntimeconfig.cache
+C:\Users\Ömer\Desktop\acunmedya\Araba Form\Araba Form\obj\Debug\net8.0-windows\ref\Araba Form.dll
