@@ -1,0 +1,16 @@
+C:\Users\Ömer\Desktop\acunmedya\ReflectionOdev\ReflectionOdev\bin\Debug\net8.0-windows\ReflectionOdev.exe
+C:\Users\Ömer\Desktop\acunmedya\ReflectionOdev\ReflectionOdev\bin\Debug\net8.0-windows\ReflectionOdev.deps.json
+C:\Users\Ömer\Desktop\acunmedya\ReflectionOdev\ReflectionOdev\bin\Debug\net8.0-windows\ReflectionOdev.runtimeconfig.json
+C:\Users\Ömer\Desktop\acunmedya\ReflectionOdev\ReflectionOdev\bin\Debug\net8.0-windows\ReflectionOdev.dll
+C:\Users\Ömer\Desktop\acunmedya\ReflectionOdev\ReflectionOdev\bin\Debug\net8.0-windows\ReflectionOdev.pdb
+C:\Users\Ömer\Desktop\acunmedya\ReflectionOdev\ReflectionOdev\obj\Debug\net8.0-windows\ReflectionOdev.Form1.resources
+C:\Users\Ömer\Desktop\acunmedya\ReflectionOdev\ReflectionOdev\obj\Debug\net8.0-windows\ReflectionOdev.csproj.GenerateResource.cache
+C:\Users\Ömer\Desktop\acunmedya\ReflectionOdev\ReflectionOdev\obj\Debug\net8.0-windows\ReflectionOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer\Desktop\acunmedya\ReflectionOdev\ReflectionOdev\obj\Debug\net8.0-windows\ReflectionOdev.AssemblyInfoInputs.cache
+C:\Users\Ömer\Desktop\acunmedya\ReflectionOdev\ReflectionOdev\obj\Debug\net8.0-windows\ReflectionOdev.AssemblyInfo.cs
+C:\Users\Ömer\Desktop\acunmedya\ReflectionOdev\ReflectionOdev\obj\Debug\net8.0-windows\ReflectionOdev.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\acunmedya\ReflectionOdev\ReflectionOdev\obj\Debug\net8.0-windows\ReflectionOdev.dll
+C:\Users\Ömer\Desktop\acunmedya\ReflectionOdev\ReflectionOdev\obj\Debug\net8.0-windows\refint\ReflectionOdev.dll
+C:\Users\Ömer\Desktop\acunmedya\ReflectionOdev\ReflectionOdev\obj\Debug\net8.0-windows\ReflectionOdev.pdb
+C:\Users\Ömer\Desktop\acunmedya\ReflectionOdev\ReflectionOdev\obj\Debug\net8.0-windows\ReflectionOdev.genruntimeconfig.cache
+C:\Users\Ömer\Desktop\acunmedya\ReflectionOdev\ReflectionOdev\obj\Debug\net8.0-windows\ref\ReflectionOdev.dll
