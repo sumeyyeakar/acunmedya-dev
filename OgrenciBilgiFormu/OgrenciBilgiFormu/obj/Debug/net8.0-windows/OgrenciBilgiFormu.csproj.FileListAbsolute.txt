@@ -1,0 +1,16 @@
+C:\Users\Ömer\Desktop\acunmedya\OgrenciBilgiFormu\OgrenciBilgiFormu\bin\Debug\net8.0-windows\OgrenciBilgiFormu.exe
+C:\Users\Ömer\Desktop\acunmedya\OgrenciBilgiFormu\OgrenciBilgiFormu\bin\Debug\net8.0-windows\OgrenciBilgiFormu.deps.json
+C:\Users\Ömer\Desktop\acunmedya\OgrenciBilgiFormu\OgrenciBilgiFormu\bin\Debug\net8.0-windows\OgrenciBilgiFormu.runtimeconfig.json
+C:\Users\Ömer\Desktop\acunmedya\OgrenciBilgiFormu\OgrenciBilgiFormu\bin\Debug\net8.0-windows\OgrenciBilgiFormu.dll
+C:\Users\Ömer\Desktop\acunmedya\OgrenciBilgiFormu\OgrenciBilgiFormu\bin\Debug\net8.0-windows\OgrenciBilgiFormu.pdb
+C:\Users\Ömer\Desktop\acunmedya\OgrenciBilgiFormu\OgrenciBilgiFormu\obj\Debug\net8.0-windows\OgrenciBilgiFormu.Form1.resources
+C:\Users\Ömer\Desktop\acunmedya\OgrenciBilgiFormu\OgrenciBilgiFormu\obj\Debug\net8.0-windows\OgrenciBilgiFormu.csproj.GenerateResource.cache
+C:\Users\Ömer\Desktop\acunmedya\OgrenciBilgiFormu\OgrenciBilgiFormu\obj\Debug\net8.0-windows\OgrenciBilgiFormu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer\Desktop\acunmedya\OgrenciBilgiFormu\OgrenciBilgiFormu\obj\Debug\net8.0-windows\OgrenciBilgiFormu.AssemblyInfoInputs.cache
+C:\Users\Ömer\Desktop\acunmedya\OgrenciBilgiFormu\OgrenciBilgiFormu\obj\Debug\net8.0-windows\OgrenciBilgiFormu.AssemblyInfo.cs
+C:\Users\Ömer\Desktop\acunmedya\OgrenciBilgiFormu\OgrenciBilgiFormu\obj\Debug\net8.0-windows\OgrenciBilgiFormu.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\acunmedya\OgrenciBilgiFormu\OgrenciBilgiFormu\obj\Debug\net8.0-windows\OgrenciBilgiFormu.dll
+C:\Users\Ömer\Desktop\acunmedya\OgrenciBilgiFormu\OgrenciBilgiFormu\obj\Debug\net8.0-windows\refint\OgrenciBilgiFormu.dll
+C:\Users\Ömer\Desktop\acunmedya\OgrenciBilgiFormu\OgrenciBilgiFormu\obj\Debug\net8.0-windows\OgrenciBilgiFormu.pdb
+C:\Users\Ömer\Desktop\acunmedya\OgrenciBilgiFormu\OgrenciBilgiFormu\obj\Debug\net8.0-windows\OgrenciBilgiFormu.genruntimeconfig.cache
+C:\Users\Ömer\Desktop\acunmedya\OgrenciBilgiFormu\OgrenciBilgiFormu\obj\Debug\net8.0-windows\ref\OgrenciBilgiFormu.dll
