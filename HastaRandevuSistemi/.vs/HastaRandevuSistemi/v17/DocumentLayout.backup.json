@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\HastaRandevuSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1291F8E5-DA67-4946-A097-5C10184D4F5C}|HastaRandevuSistemi\\HastaRandevuSistemi.csproj|C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\HastaRandevuSistemi\\hastarandevusistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1291F8E5-DA67-4946-A097-5C10184D4F5C}|HastaRandevuSistemi\\HastaRandevuSistemi.csproj|solutionrelative:hastarandevusistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1291F8E5-DA67-4946-A097-5C10184D4F5C}|HastaRandevuSistemi\\HastaRandevuSistemi.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\hastarandevusistemi\\hastarandevusistemi\\models\\doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1291F8E5-DA67-4946-A097-5C10184D4F5C}|HastaRandevuSistemi\\HastaRandevuSistemi.csproj|solutionrelative:hastarandevusistemi\\models\\doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1291F8E5-DA67-4946-A097-5C10184D4F5C}|HastaRandevuSistemi\\HastaRandevuSistemi.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\hastarandevusistemi\\hastarandevusistemi\\veritabani_olusum.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{1291F8E5-DA67-4946-A097-5C10184D4F5C}|HastaRandevuSistemi\\HastaRandevuSistemi.csproj|solutionrelative:hastarandevusistemi\\veritabani_olusum.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1291F8E5-DA67-4946-A097-5C10184D4F5C}|HastaRandevuSistemi\\HastaRandevuSistemi.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\hastarandevusistemi\\hastarandevusistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1291F8E5-DA67-4946-A097-5C10184D4F5C}|HastaRandevuSistemi\\HastaRandevuSistemi.csproj|solutionrelative:hastarandevusistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1291F8E5-DA67-4946-A097-5C10184D4F5C}|HastaRandevuSistemi\\HastaRandevuSistemi.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\hastarandevusistemi\\hastarandevusistemi\\models\\brans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1291F8E5-DA67-4946-A097-5C10184D4F5C}|HastaRandevuSistemi\\HastaRandevuSistemi.csproj|solutionrelative:hastarandevusistemi\\models\\brans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1291F8E5-DA67-4946-A097-5C10184D4F5C}|HastaRandevuSistemi\\HastaRandevuSistemi.csproj|c:\\users\\\u00F6mer\\desktop\\acunmedya\\hastarandevusistemi\\hastarandevusistemi\\veritabani_olusum.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{1291F8E5-DA67-4946-A097-5C10184D4F5C}|HastaRandevuSistemi\\HastaRandevuSistemi.csproj|solutionrelative:hastarandevusistemi\\veritabani_olusum.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "veritabani_olusum.sql ",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\HastaRandevuSistemi\\HastaRandevuSistemi\\veritabani_olusum.sql",
+              "RelativeDocumentMoniker": "HastaRandevuSistemi\\veritabani_olusum.sql",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\HastaRandevuSistemi\\HastaRandevuSistemi\\veritabani_olusum.sql",
+              "RelativeToolTip": "HastaRandevuSistemi\\veritabani_olusum.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-17T09:32:24.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Doktor.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\HastaRandevuSistemi\\HastaRandevuSistemi\\Models\\Doktor.cs",
+              "RelativeDocumentMoniker": "HastaRandevuSistemi\\Models\\Doktor.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\HastaRandevuSistemi\\HastaRandevuSistemi\\Models\\Doktor.cs",
+              "RelativeToolTip": "HastaRandevuSistemi\\Models\\Doktor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:44:04.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Brans.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\HastaRandevuSistemi\\HastaRandevuSistemi\\Models\\Brans.cs",
+              "RelativeDocumentMoniker": "HastaRandevuSistemi\\Models\\Brans.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\HastaRandevuSistemi\\HastaRandevuSistemi\\Models\\Brans.cs",
+              "RelativeToolTip": "HastaRandevuSistemi\\Models\\Brans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:34:44.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\HastaRandevuSistemi\\HastaRandevuSistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "HastaRandevuSistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\HastaRandevuSistemi\\HastaRandevuSistemi\\Form1.cs",
+              "RelativeToolTip": "HastaRandevuSistemi\\Form1.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAADwv4IAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:10:24.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\HastaRandevuSistemi\\HastaRandevuSistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "HastaRandevuSistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\acunmedya\\HastaRandevuSistemi\\HastaRandevuSistemi\\Form1.cs [Design]",
+              "RelativeToolTip": "HastaRandevuSistemi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:56:40.146Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
